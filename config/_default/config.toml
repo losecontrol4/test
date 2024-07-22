@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://losecontrol4.github.io/test"
 copyright = "Copyright © 2021"
 title = "hugo-theme-gruvbox"
 #paginate = 10
